@@ -13,6 +13,10 @@
 [![LinkedIn](https://www.linkedin.com/in/vishal-ingle-5465b923b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B69qJur4EQAOOyDRnArYuww%3D%3D)]
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inglevishal1999&layout=compact)
+### 💻 Languages & Tools:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 
