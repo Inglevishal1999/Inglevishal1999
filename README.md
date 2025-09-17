@@ -14,12 +14,8 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves crea
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inglevishal1999&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inglevishal1999&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inglevishal1999&layout=compact&theme=radical)
 
 </div>
 
@@ -38,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves crea
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Featured Projects
+<!--## 🌟 Featured Projects
 
 <!-- You can add your best projects here -->
 <!-- Example:
