@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer who loves crea
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **React & Tailwind CSS projects**
-- 🌱 I'm currently learning **React.js, Tailwind CSS, and modern web development**
+- 🌱 I'm currently learning **React.js, Tailwind CSS, modern web development and also MySQL**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, JavaScript, and Frontend Development**
 - 📫 How to reach me: **inglevishal191994@gmail.com**
